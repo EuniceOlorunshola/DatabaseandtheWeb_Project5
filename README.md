@@ -10,45 +10,74 @@ Consider the Neo4J database loaded in loadParts.py. Run this program to create t
 
 
 (c) cost of part
+
 (s) sub-parts
+
 (q) quit
 
 What do you want to see: c
+
 Enter part name: engine
+
 Cost of engine is 744.0
 
+
 (c) cost of part
+
 (s) sub-parts
+
 (q) quit
+
 
 What do you want to see: c
+
 Enter part name: cylinder
+
 Cost of cylinder is 29.0
 
+
 (c) cost of part
+
 (s) sub-parts
+
 (q) quit
 
+
 What do you want to see: s
+
 Enter part name: engine
+
 Subparts of pname: 
 
+
 bolt 192
+
 screw 136
+
 gasket 16
+
 sparkplug 4
 
 
+
 (c) cost of part
+
 (s) sub-parts
+
 (q) quit
 
+
 What do you want to see: s
+
 Enter part name: cylinder
+
 Subparts of pname: 
 
+
 bolt 4
+
 screw 6
+
 gasket 3
 
 
