@@ -82,7 +82,10 @@ gasket 3
 
 
 (c) cost of part
+
 (s) sub-parts
+
 (q) quit
+
 
 What do you want to see: q
